@@ -25,5 +25,9 @@ f2.writelines(lines)  # 多行写入文件
 f2.close()  # 关闭文件
 
 # 上下文管理
-with open('test', 'w') as f:
+with open('test', 'w') as f:  # with作用于这个文件对象，f是这个文件对象的别名
     f.write('\n'.join(map(str, range(1, 4))))
+
+with open('test') as f:
+    for line in f:  # 文件对象是可迭代对象，逐行遍历
+        print(line.encode())
