@@ -24,3 +24,12 @@
 - path_operations.py：关于路径操作的代码
 - regular.py：关于正则表达式的代码
 - serialization.py：关于序列化和反序列化的代码
+## OOP目录
+- encapsulation.py：关于封装的代码
+- inherit.py：关于继承的代码
+- mixin.py：关于Mixin的代码
+## TimeLogExcMag目录
+- exception.py：关于异常处理的代码
+- logging_module.py：关于日志记录的代码
+- magic.py：关于魔术方法的代码
+- time_module.py：关于时间模块的代码
