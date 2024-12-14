@@ -46,3 +46,7 @@
 - socket_grammar.py：关于socket编程的代码
 - sockserver.py：关于socketserver模块的代码
 - srv_chatserver.py：关于使用socketserver模块实现群聊服务器端的代码
+## DataBase目录
+- CRUD.py：关于利用pymysql进行数据库增删改查的代码
+- test.sql：测试的SQL文件
+- tools.py：使用面向对象编程封装的代码
