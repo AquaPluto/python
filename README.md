@@ -49,4 +49,4 @@
 ## DataBase目录
 - CRUD.py：关于利用pymysql进行数据库增删改查的代码
 - test.sql：测试的SQL文件
-- tools.py：使用面向对象编程封装的代码
+- tools.py：使用面向对象编程封装的数据库操作代码
