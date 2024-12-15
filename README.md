@@ -19,7 +19,7 @@
 - docstrings.py：关于文档字符串和有参装饰器的代码
 - functools_module.py：关于functools模块的代码
 - parameterless.py：关于无参装饰器的代码
-## file_path目录
+## FileOperate目录
 - file_operations.py：关于文件操作的代码
 - path_operations.py：关于路径操作的代码
 - regular.py：关于正则表达式的代码
